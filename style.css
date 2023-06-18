@@ -48,6 +48,8 @@ main img {
 
 .item-double {
   flex: 2;
+  display: flex;
+  align-items: center;
 }
 
 .item img {
